@@ -1,0 +1,13 @@
+# NAME: otherwhilst
+# AUTHOR: ChrisFu
+# REPO: 
+# UPDATED: 20221013
+# DOMAIN-KEYWORD:
+# DOMAIN-SUFFIX:
+# IP-CIDR:
+# IP-CIDR6:
+# PROCESS-NAME: 
+# TOTAL: 
+payload:
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
