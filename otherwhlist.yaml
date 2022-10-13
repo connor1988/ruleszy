@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,githubusercontent
+  - DOMAIN,stash.wiki
