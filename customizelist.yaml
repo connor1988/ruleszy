@@ -10,3 +10,4 @@
 # TOTAL: 
 payload:
   - DOMAIN-KEYWORD,buyee
+  - DOMAIN-SUFFIX,openai.com
