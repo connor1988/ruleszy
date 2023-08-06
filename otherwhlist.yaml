@@ -23,4 +23,4 @@ payload:
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,whoer.net
-  - DOMAIN-SUFFIX,netly.gg
+#- DOMAIN-SUFFIX,netly.gg
