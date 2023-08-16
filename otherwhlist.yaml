@@ -26,6 +26,7 @@ payload:
 #- DOMAIN-SUFFIX,netly.gg
   - DOMAIN-SUFFIX,hax.co.id
   - DOMAIN-SUFFIX,dedipath.com
+  - DOMAIN-SUFFIX,discord.com
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
