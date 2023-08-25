@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,dedipath.com
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,marist.edu
+  - DOMAIN-SUFFIX,mc-servers.tech
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
