@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,marist.edu
   - DOMAIN-SUFFIX,mc-servers.tech
   - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,cubehosting.me
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
