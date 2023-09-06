@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,cubehosting.me
   - DOMAIN-SUFFIX,sillydev.co.uk
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,clarity.ms
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
