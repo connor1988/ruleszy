@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,cubehosting.me
   - DOMAIN-SUFFIX,sillydev.co.uk
+  - DOMAIN-SUFFIX,bing.com
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
