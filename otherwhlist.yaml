@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,nic.ua
+  - DOMAIN-SUFFIX,nnr.moe
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
