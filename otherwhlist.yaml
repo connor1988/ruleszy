@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,nic.ua
   - DOMAIN-SUFFIX,nnr.moe
   - DOMAIN-SUFFIX,taohao.me
+  - DOMAIN-SUFFIX,nicebar.xyz
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
