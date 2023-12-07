@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,nnr.moe
   - DOMAIN-SUFFIX,taohao.me
   - DOMAIN-SUFFIX,nicebar.xyz
+  - DOMAIN-SUFFIX,duckyci.com
 # Add openai
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
