@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,taohao.me
 DOMAIN-SUFFIX,nicebar.xyz
 DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,nssurge.com
+IP-CIDR,8.8.8.8/32,no-resolve
 # Add openai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
