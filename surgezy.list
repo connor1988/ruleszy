@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,nicebar.xyz
 DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,sharon.io
+DOMAIN-SUFFIX,k8sclouds.com
 # Add openai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
