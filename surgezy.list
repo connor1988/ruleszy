@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,monitor.k8sclouds.com
+DOMAIN-SUFFIX,maigvhao.com
 # Add openai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
