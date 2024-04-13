@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,nicebar.xyz
 DOMAIN-SUFFIX,duckyci.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,sharon.io
-DOMAIN-SUFFIX,monitor.k8sclouds.com
+#DOMAIN-SUFFIX,monitor.k8sclouds.com
 DOMAIN-SUFFIX,maigvhao.com
 DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,bijia.me
