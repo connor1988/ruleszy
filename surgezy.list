@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,maigvhao.com
 DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,bijia.me
+DOMAIN-SUFFIX,jsdelivr.net
 # Add openai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
