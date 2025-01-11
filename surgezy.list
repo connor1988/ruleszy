@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,anyfastcloud.com
 DOMAIN-SUFFIX,bijia.me
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,wawo.wiki
+DOMAIN-SUFFIX,nodeseek.com
 # Add openai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
