@@ -61,3 +61,6 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
+
+# google Voice
+DOMAIN-SUFFIX,voice.telephony.goog
